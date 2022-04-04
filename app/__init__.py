@@ -4,6 +4,8 @@ from flask_restful import Api
 from app.common.error_handling import ObjectNotFound, AppErrorBaseClass
 from app.diets.api_v1_0.resources import diets_v1_0_bp
 
+data = []
+
 
 def create_app(settings_module):
     app = Flask(__name__)
@@ -20,7 +22,7 @@ def create_app(settings_module):
 
     # Registra manejadores de errores personalizados
     register_error_handlers(app)
-    
+
     return app
 
 
@@ -44,4 +46,3 @@ def register_error_handlers(app):
     @app.errorhandler(ObjectNotFound)
     def handle_object_not_found_error(e):
         return jsonify({'msg': str(e)}), 404
-

@@ -1,0 +1,143 @@
+﻿ID,Alimento,Proteinas,Grasas,Carbohidratos,Ingredientes,Horario_1,Horario_2,Calorias_Total_100g
+1,Causa de pollo,3.4,4.6,16.4,POLLO-PAPA-PALTA,Almuerzo,Cena,120.6
+2,Causa rellena de atun,3.2,3.4,12.9,ATUN-POLLO-PALTA,Almuerzo,Cena,95
+3,Cebiche de pescado con chicharron de pota,6.9,2.7,24.8,PESCADO-HUEVO,Almuerzo,,151.1
+4,Palta rellena,3.7,3.6,14.3,PALTA- POLLO-ATUN,Almuerzo,Cena,104.4
+5,Papa rellena con ensalada,3.3,6,17.6,PAPA-CARNE,Almuerzo,Cena,137.6
+6,Adobo de cerdo y arroz,6.3,1.9,31.8,CERDO-ARROZ,Almuerzo,Cena,169.5
+7,Adobo de cerdo con menestra y arroz,9.7,3.4,23.8,CERDO-LENTEJA-ARROZ,Almuerzo,,164.6
+8,Adobo de pollo y arroz,8.1,1.4,21.1,POLLO-ARROZ,Almuerzo,Cena,129.4
+9,Adobo de pollo con ensalada y arroz,4.9,2.2,26,POLLO-ARROZ,Almuerzo,,143.4
+10,Aji de pollo y arroz,4.9,3.7,25.4,POLLO-ARROZ-PAN,Almuerzo,,154.5
+11,Anticucho con papa y arroz,9.8,3.3,10.3,PAPA-ARROZ-CARNE,Almuerzo,Cena,110.1
+12,Arroz con frejol y seco de res,6.9,2.2,22.2,FREJOL-RES-ARROZ,Almuerzo,Cena,136.2
+13,Arroz con frejoles y seco de pollo,7.7,1.4,17.8,FRIJOL-POLLO-ARROZ,Almuerzo,Cena,114.6
+14,Arroz con mariscos,6.9,2.7,21.2,PESCADO-ARROZ,Almuerzo,Cena,136.7
+15,Arroz con pollo,6.9,2.2,23,ARROZ-POLLO-CHOCLO,Almuerzo,,139.4
+16,Arvejita verde partida con estofado de pollo y arroz,8.8,2.8,20.2,LENTEJAS-POLLO-ARROZ,Almuerzo,Cena,141.2
+17,Asado de cerdo con arvejita verde y arroz,7.2,2,25.7,CERDO-LENTEJA-ARROZ,Almuerzo,,149.6
+18,Asado de cerdo con menestra y arroz,8,2.2,24.9,CERDO-LENTEJA-ARROZ,Almuerzo,,151.4
+19,Asado de pollo y arroz,9.3,3,22,POLLO-ARROZ,Almuerzo,Cena,152.2
+20,Asado de pollo con menestra y arroz,9.6,1.9,22.3,POLLO-ARROZ-LENTEJA,Almuerzo,Cena,144.7
+21,Asado de pollo con pure y arroz,6.4,2.7,23.7,POLLO-PAPA-ARROZ,Almuerzo,,144.7
+22,Asado de res y arroz,6.1,0.5,21.7,CARNE-ARROZ,Almuerzo,Cena,115.7
+23,Asado de res con menestra y arroz,7.2,0.9,17.6,CARNE-LENTEJA-ARROZ,Almuerzo,Cena,107.3
+24,Bisteck de res con papas fritas y arroz,3.4,3.1,13.5,CARNE-PAPA-ARROZ,Almuerzo,Cena,95.5
+25,Cabrito a la norteña con arroz,3.8,0.7,15.6,CARNE-ARROZ,Almuerzo,Cena,83.9
+26,Cabrito con frejoles y arroz,7.6,2.1,26.1,CARNE-FRIJOL-ARROZ,Almuerzo,,153.7
+27,Cau cau con arroz,4.6,3.1,19.8,PAPA-ARROZ-CERDO,Almuerzo,Cena,125.5
+28,Chuleta a la parrilla con arroz,6.3,1.8,17.2,CERDO-ARROZ,Almuerzo,Cena,110.2
+29,Churrasco con frejoles y arroz,10.9,6.4,17.8,CARNE-FRIJOL-ARROZ,Almuerzo,Cena,172.4
+30,Churrasco con papas fritas con ensalada y arroz,4.6,4.3,24.4,CARNE-PAPA-ARROZ,Almuerzo,,154.7
+31,Combinado de pollo,4.8,1.7,22.2,ARROZ-FIDEO-POLLO,Almuerzo,Cena,123.3
+32,Cordero a la norteña con frejoles y arroz,7.5,3.8,20.8,CARNE-FIJOL-ARROZ,Almuerzo,Cena,147.4
+33,Ensalada rusa con pollo al horno y arroz,9.8,1.4,21.4,PAPA-CHOCLO-POLLO-ARROZ,Almuerzo,Cena,137.4
+34,Escabeche de pollo con arroz,6.7,2.8,22.7,POLLO-ARROZ,Almuerzo,Cena,142.8
+35,Estofado de pavita con arroz y ensalada,5.8,2.3,23.2,PAVITA-ARROZ,Almuerzo,,136.7
+36,Estofado de pollo con arroz,7,1.9,19,POLLO-ARROZ,Almuerzo,Cena,121.1
+37,Estofado de pollo con menestra y arroz,7.9,1.6,19.4,POLLO-LENTEJA-ARROZ,Almuerzo,Cena,123.6
+38,Filete de pescado con menestra y arroz,7.7,4.2,37.9,PESCADO-LENTEJA-ARROZ,Almuerzo,,220.2
+39,Frejoles con asado de carne y arroz,6.1,2.3,18.4,FRIJOL-CARNE-ARROZ,Almuerzo,Cena,118.7
+40,Frejoles con cabrito a la norteña y arroz,9.1,5.6,18.8,FRIJOL-CARNE-ARROZ,Almuerzo,Cena,162
+41,Frejoles con pescado y arroz,7.2,7.1,17.4,FRIJOL-PESCADO-ARROZ,Almuerzo,Cena,162.3
+42,Frejoles con pescado con ensalada y arroz,8.9,5,24.4,FRIJOL-PESCADO-ARROZ,Almuerzo,,178.2
+43,Frejoles con seco a la norteña y arroz,9.3,1.6,15.4,FRIJOL-CARNE-ARROZ,Almuerzo,Cena,113.2
+44,Frejoles con seco y arroz,7.9,2.6,37.1,FRIJOL-CARNE-ARROZ,Almuerzo,,203.4
+45,Frejoles con seco y ensalada y arroz,10.6,3.8,29.5,FRIJOL-CARNE-ARROZ,Almuerzo,,194.6
+46,Garbanzo con pescado y arroz,6.2,2.6,20.5,PESCADO-ARROZ-LENTEJA,Almuerzo,Cena,130.2
+47,Guiso de caigua con arroz,6.7,2,22.3,POLLO-ARROZ,Almuerzo,Cena,134
+48,Higado encebollado con arroz,3.9,1.7,20.5,CARNE-ARROZ,Almuerzo,Cena,112.9
+49,Lenteja con chuleta y arroz,6.7,2.7,17.2,LENTEJA-CERDO-ARROZ,Almuerzo,Cena,119.9
+50,Lenteja con estofado de pollo y arroz,7.5,2.3,20.5,LENTEJA-POLLO-ARROZ,Almuerzo,Cena,132.7
+51,Lenteja con pescado y arroz,6,5.9,23.9,LENTEJA-PESCADO-ARROZ,Almuerzo,,172.7
+52,Locro con higado de carne y arroz,3.1,5.6,18.2,CHOCLO-ARROZ-CARNE,Almuerzo,Cena,135.6
+53,Lomito de atun con arroz,4.9,4.9,24.8,ATUN-POLLO-ARROZ,Almuerzo,,162.9
+54,Lomo saltado de carne con arroz,4.6,8.2,21.3,CARNE-ARROZ-PAPA,Almuerzo,Cena,177.4
+55,Milanesa con ensalada y arroz,5.2,5,22.4,CARNE-ARROZ,Almuerzo,Cena,155.4
+56,Mondonguito a la italiana con arroz,4.7,0.9,24.9,CERDO-ARROZ-PAPA,Almuerzo,,126.5
+57,Olluquito de carne con arroz integral,5.1,2.4,21.4,ARROZ-POLLO,Almuerzo,Cena,127.6
+58,Pachamanca a la olla con arroz,11,2.4,11.8,CHOCLO-CARNE-CAMOTE-ARROZ,Almuerzo,Cena,112.8
+59,Pallares con guiso de pollo y arroz,9.5,2.8,26.5,POLLO-LENTEJA-ARROZ,Almuerzo,,169.2
+60,Pallares con pollo y arroz,9.4,2.3,32,LENTEJA-ARROZ-POLLO,Almuerzo,,186.3
+61,Pescado con arroz,7.1,2.3,20.7,PESCADO-ARROZ,Almuerzo,Cena,131.9
+62,Pescado con menestra y arroz,7.4,5,21.3,PESCADO-LENTEJA-ARROZ,Almuerzo,Cena,159.8
+63,Picante de pollo con arroz,4.7,6.9,34.5,POLLO-ARROZ-PAPA,Almuerzo,,218.9
+64,Pollo a la norteña con arroz,8.4,2.1,19.7,POLLO-ARROZ-YUCA,Almuerzo,Cena,131.3
+65,Pollo a la olla con menestra y arroz,9.8,1.8,29.1,POLLO-LENTEJA-ARROZ,Almuerzo,,171.8
+66,Pollo a la olla con pure y arroz,6.1,1.5,13.5,POLLO-PAPA-ARROZ,Almuerzo,Cena,91.9
+67,Pollo a la plancha con ensalada y arroz,3.1,0.4,28.9,POLLO-ARROZ,Almuerzo,,131.6
+68,Pollo a la plancha con pure y arroz,9,3.6,15.4,POLLO-PAPA-ARROZ,Almuerzo,Cena,130
+69,Pollo al horno con arroz,7.6,2.1,22.2,POLLO-ARROZ,Almuerzo,Cena,138.1
+70,Pollo al horno con ensalada y arroz,9,4.4,14.3,POLLO-ARROZ,Almuerzo,Cena,132.8
+71,Pollo al horno con ensalada rusa y arroz,6.7,2.7,30.8,POLLO-PAPA,Almuerzo,,174.3
+72,Pollo al horno con menestra y arroz,10.7,3.3,23.6,LENTEJA-POLLO-ARROZ,Almuerzo,,166.9
+73,Pollo al horno con pure y arroz,7.3,3.2,20.1,POLLO-PAPA-ARROZ,Almuerzo,Cena,138.4
+74,Pollo al jugo con menestra y arroz,7.7,1.9,21.7,POLLO-LENTEJA-ARROZ,Almuerzo,Cena,134.7
+75,Pollo al mani con arroz,6.4,1.7,25.5,POLLO-ARROZ,Almuerzo,,142.9
+76,Pollo al mani con ensalada y arroz,3.2,7.7,20.9,POLLO-ARROZ,Almuerzo,Cena,165.7
+77,Pollo con arroz,9.2,2,19.9,POLLO-ARROZ,Almuerzo,Cena,134.4
+78,Pollo frito con arroz,6.2,5.6,24.8,CON-PAN,Almuerzo,,174.4
+79,Pollo frito con ensalada y arroz,3.5,5.3,22.4,POLLO-PALTA-ARROZ,Almuerzo,Cena,151.3
+80,Pollo frito con menestra y arroz,6.5,2.3,27.3,POLLO-LENTEJA-ARROZ,Almuerzo,,155.9
+81,Pure con asado y arroz,3.9,2.5,19.1,PAPA-CERDO-ARROZ,Almuerzo,Cena,114.5
+82,Pure con pavita y arroz,4.8,3.7,19.9,PAVITA-ARROZ-PAPA,Almuerzo,Cena,132.1
+83,Pure con pollo al sillao y arroz,5.4,1.9,28.4,PAPA-POLLO-ARROZ,Almuerzo,,152.3
+84,Pure con pollo y arroz,7.9,3.3,19.2,PAPA-POLLO-ARROZ,Almuerzo,Cena,138.1
+85,Seco a la norteña con arroz,5.3,1.2,28.7,YUCA-CARNE-ARROZ,Almuerzo,,146.8
+86,Seco a la norteña con menestra y arroz,5.5,1.8,22.9,YUCA-CARNE-ARROZ,Almuerzo,Cena,129.8
+87,Seco a la norteña con sarsa criolla y arroz,4.4,1.9,22.7,YUCA-CARNE-LENTEJA-ARROZ,Almuerzo,Cena,125.5
+88,Seco a la norteña de pollo con menestra y arroz,4,1.5,10.1,YUCA-POLLO-LENTEJA-ARROZ,Almuerzo,Cena,69.9
+89,Seco a la norteña de res con menestra y arroz,6,1.5,19.7,CARNE-LENTEJA-ARROZ-YUCA,Almuerzo,Cena,116.3
+90,Seco de cabrito con arroz,6.4,1.7,20.4,CARNE-ARROZ,Almuerzo,Cena,122.5
+91,Seco de cabrito con menestra y arroz,8,2.6,27.2,CARNE-FRIJOL-ARROZ,Almuerzo,,164.2
+92,Seco de cordero con menestra y arroz,7.8,4.1,23.2,CARNE-FRIJOL-ARROZ,Almuerzo,,160.9
+93,Seco de cordero con menestra con sarsa criolla y arroz,8,2.1,34.7,CARNE-FRIJOL-ARROZ,Almuerzo,,189.7
+94,Seco de pollo con arroz,7,2.1,21,POLLO-ARROZ,Almuerzo,Cena,130.9
+95,Seco de pollo con menestra y arroz,9.1,2.2,20.8,POLLO-LENTEJA-ARROZ,Almuerzo,Cena,139.4
+96,Seco de res a la huachana con menestra y arroz,7.3,2,18.9,CARNE-ARROZ-FRIJOL,Almuerzo,Cena,122.8
+97,Seco de res a la norteña con menestra y arroz,4.9,2.1,18.4,YUCA-FRIJOL-CARNE-ARROZ,Almuerzo,Cena,112.1
+98,Seco de res con menestra y arroz,6.2,2,24.8,CARNE-FRIJOL-ARROZ,Almuerzo,,142
+99,Seco de res con menestra con ensalada y arroz,5.7,2.2,20.7,CARNE-FRIJOL-ARROZ,Almuerzo,Cena,125.4
+100,Tacu tacu con filete de pollo,8.6,1.5,24.7,ARROZ-FRIJOL-POLLO,Almuerzo,,146.7
+101,Tacu tacu con lomito,7,6.3,19.7,PAPA-CARNE-ARROZ-FRIJOL,Almuerzo,Cena,163.5
+102,Tallarines rojos con pollo,7.8,2.3,20.7,FIDEO-POLLO,Almuerzo,Cena,134.7
+103,Tallarines verdes con pollo,9.3,6.9,18.8,FIDEO-POLLO,Almuerzo,Cena,174.5
+104,Tallarines verdes con pollo y crema a la huancaina,9.3,2.7,23.3,FIDEO-PAPA-POLLO,Almuerzo,,154.7
+105,Tallarines verdes con res,8.9,2.7,28.7,FIDEO-CARNE,Almuerzo,,174.7
+106,Avena y pan de maiz con palta,7.7,8.63,44.53,AVENA-PAN-PALTA,Desayuno,Cena,286.59
+107,Yogurt y pan integral con queso,10.03,10.8,21.17,YOGURT-PAN-QUESO,Desayuno,Cena,222
+108,Yogurt y galleta de avena y huevo duro sancochado,10,5.96,25.33,YOGURT-AVENA-HUEVO,Desayuno,Cena,194.96
+109,Quinua y pan integral con pavita,14.37,7.6,40.7,QUINUA-PAN-PAVITA,Desayuno,Cena,288.68
+110,Jugo natural de naranja y pan de molde con aceituna,2.77,11.6,27.47,NARANJA-PAN-ACEITUNA,Desayuno,Cena,225.36
+111,Jugo natural de maracuya y pan de maiz con jamonada,8.1,12.77,25.2,MARACUYA-PAN-JAMONADA,Desayuno,Cena,248.13
+112,Leche evaporada y pan integral con pulpa de pollo,12.27,6.6,22.13,LECHE-PAN-POLLO,Desayuno,Cena,197
+113,Leche evaporada y pan de yema con queso fresco ,11.07,11.97,23.2,LECHE-PAN-QUESO,Desayuno,Cena,244.81
+114,Jugo natural de cocona y huevo duro sancochado y manzana,4.37,3.33,5.13,COCONA-HUEVO-MANZANA,Desayuno,Cena,67.97
+115,Quinua y pan de yema con atun,15.3,7.93,40.67,QUINUA-PAN-ATUN,Desayuno,Cena,295.25
+116,Jugo natural de granadilla y pan de maiz con pavita y huevo sancochado,10.5,6.7,16,GRANADILLA-PAVO-PAN-HUEVO,Desayuno,Cena,166.3
+117,Leche evaporada y pan de maiz con mantequilla,8.93,8.77,22.53,LECHE-PAN-MANTEQUILLA,Desayuno,Cena,204.77
+118,Avena y pan integral con palta,8.17,8.73,44.13,AVENA-PAN-PALTA,Desayuno,Cena,287.77
+119,Jugo natural de naranja y pan integral con queso,9.1,9.77,21.56,NARANJA-PAN-QUESO,Desayuno,Cena,210.57
+120,Yogurt y croquetas de atun  y mandarina,9,4.5,4.43,YOGURT-ATUN-MANDARINA,Desayuno,Cena,94.22
+121,Jugo natural de maracuya y pan de maiz con palta,3.43,7.1,26.13,MARACUYA-PAN-PALTA,Desayuno,Cena,182.14
+122,Leche evaporada y pan de yema con palta,5.8,9.43,23.97,LECHE-PAN-PALTA,Desayuno,Cena,203.95
+123,Jugo natural de naranja y pan de molde con palta,3.07,5.07,26.9,NARANJA-PAN-PALTA,Desayuno,Cena,165.51
+124,Yogurt y pan integral con palta,4.77,8.27,21.93,YOGURT-PAN-PALTA,Desayuno,Cena,181.23
+125,Quinua y pan de yema con palta,8.23,8.8,42.53,QUINUA-PAN-PALTA,Desayuno,Cena,282.24
+126,Avena y pan de maiz con palta y naranja,5.93,6.53,35.93,AVENA-PAN-PALTA-NARANJA,Cena,Desayuno,226.21
+127,Yogurt y pan integral con queso y platano de seda,8.55,5.1,20.45,YOGURT-PAN-QUESO-PLATANO,Cena,Desayuno,161.9
+128,Yogurt y galleta de avena y uva blanca,5.81,2.72,28.19,YOGURT-AVENA-UVA,Cena,Desayuno,160.48
+129,Quinua y pan integral con pavita y platano isla,9.95,6.53,33.15,QUINUA-PAN-PAVITA-PLATANO,Cena,Desayuno,231.17
+130,Jugo natural de naranja y pan de maiz con jamonada,6.67,10.33,21.08,NARANJA-PAN-JAMONADA,Cena,Desayuno,203.97
+131,Jugo natural de maracuya y pan de maiz con jamonada,6.72,10.3,23.63,MARACUYA-PAN-JAMONADA,Cena,Desayuno,214.1
+132,Leche evaporada y pan de maiz con pulpa de pollo,12.26,6.6,22.13,LECHE-PAN-POLLO,Cena,Desayuno,196.96
+133,Leche evaporada y pan de yema con queso fresco y naranja,8.45,9.03,19.93,LECHE-PAN-QUESO-NARANJA,Cena,Desayuno,194.79
+134,Jugo natural de cocona y pan de maiz con huevo duro sancochado y manzana,5.2,4.68,18.03,COCONA-PAN-HUEVO-MANZANA,Cena,Desayuno,135.04
+135,Quinua y pan de yema con atun y mandarina,10.5,6.83,29.88,QUINUA-PAN-ATUN-MANDARINA,Cena,Desayuno,222.99
+136,Jugo natural de granadilla y pan de maiz con pavita y huevo sancochado,10.5,6.7,16,GRANADILLA-PAN-PAVO-HUEVO,Cena,Desayuno,166.3
+137,Quinua con trozos de piña y pan con mantequilla ,4.97,29.03,25.5,QUINUA-PIÑA-MANTEQUILLA,Cena,Desayuno,383.15
+138,Avena y pan de maiz con palta y trozos de papaya,5.88,6.5,35.45,AVENA-PAN-PALTA-PAPAYA,Cena,Desayuno,223.82
+139,Jugo natural de naranja y pan integral con huevo sancochado y mandarina,5.81,4.85,17.5,NARANJA-PAN-HUEVO-MANDARINA,Cena,Desayuno,136.89
+140,Yogurt y croquetas de atun  y trozos de papaya,8.93,4.43,4.3,YOGURT-ATUN-PAPAYA,Cena,Desayuno,92.79
+141,Jugo natural de naranja y pan de tres granos con palta y mango,2.85,3.85,16.98,NARANJA-PAN-PALTA-MANGO,Cena,Desayuno,113.97
+142,Leche evaporada y pan de yema con pavita y manzana,9.1,5.98,20.23,LECHE-PAN-PAVO-MANZANA,Cena,Desayuno,171.14
