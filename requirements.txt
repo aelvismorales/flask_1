@@ -1,4 +1,5 @@
 flask
 flask_restful
+flask_restx
 gunicorn
 pandas
