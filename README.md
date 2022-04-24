@@ -1,6 +1,6 @@
 ## Sobre el Proyecto
-Este es una Api que devuelve una lista de comidas separadas en desayuno, almuerzo y cena para un niño de entre 6 a 12 años
-según sus necesidades, las cuales se calculan en base a la edad, peso y altura del menor.
+Este es una Api que retorna una lista de comidas separadas en desayuno, almuerzo y cena para un niño de entre 6 a 12 años
+según sus necesidades, las cuales se calculan en base a la edad, peso, actividad, sexo y altura del menor.
 
 ### Construido con
 * [Flask](https://flask.palletsprojects.com/en/2.1.x/)
@@ -53,5 +53,7 @@ Una vez ya se tenga Conda instalado, podemos continuar con la instalación.
   ```sh
    flask run
   ```
- ### Ruta del API
- - api/v1.0/diets?age=10&weight=35.0&height=135&activity=Sedentario&sex=F
+ ### Rutas del API
+ - /api/v1.0/doc - Documentación Swagger
+ - /api/v1.0/diets - POST
+ - /api/v1.0/diets/refoods - POST
