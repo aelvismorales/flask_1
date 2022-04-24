@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ApiDieta'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6B2C95206D7D4816B988A961D00FE884 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EED0508073ED408197307EB3BBD0891B }}
